@@ -1,5 +1,14 @@
 # Claude-arXiv
 
+```
+██████╗ ██████╗ ██╗  ██╗██╗██╗   ██╗
+██╔══██╗██╔══██╗╚██╗██╔╝██║██║   ██║
+███████║██████╔╝ ╚███╔╝ ██║██║   ██║
+██╔══██║██╔══██╗ ██╔██╗ ██║╚██╗ ██╔╝
+██║  ██║██║  ██║██╔╝ ██╗██║ ╚████╔╝ 
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝  
+```
+
 A Python tool that enables Claude Code to interact with arXiv papers by downloading, parsing, and querying their LaTeX source files with precise line-number citations.
 
 ## Features
