@@ -17,6 +17,8 @@
 
 A Python tool that enables Claude Code to interact with arXiv papers by downloading, parsing, and querying their LaTeX source files with precise line-number citations.
 
+This repository has been created fully with Claude Code, except for this sentence you are reading now.
+
 ## Features
 
 - **Paper Loading**: Automatically download and cache arXiv papers
