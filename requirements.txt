@@ -1,0 +1,7 @@
+# No external dependencies required - uses only Python standard library
+# Core dependencies (included in Python 3.x):
+# - urllib.request (arXiv API calls)
+# - xml.etree.ElementTree (XML parsing)
+# - sqlite3 (local caching)
+# - tarfile, zipfile (source extraction)
+# - subprocess (Claude Code CLI integration)
